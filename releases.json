@@ -1,0 +1,21 @@
+{
+    "releases-index": [
+        {
+            "version": "6.0",
+        },
+        {
+            "version": "6.0.1XX-preview4",
+        },
+        {
+            "version": "5.0.3xx",
+        },
+        {
+            "version": "5.0.2xx",
+        },
+        {
+            "version": "3.1.4xx",
+            "sdk": "https://dotnetcli.blob.core.windows.net/dotnet/Sdk/release/{0}/dotnet-sdk-latest-osx-x64.pkg",
+            "sha": "https://dotnetclichecksums.blob.core.windows.net/dotnet/Sdk/release/{0}/dotnet-sdk-latest-osx-x64.pkg.sha"
+        }
+    ]
+}
