@@ -14,6 +14,7 @@
         },
         {
             "version": "3.1.4xx",
+            "versionUrl": "https://dotnetcli.blob.core.windows.net/dotnet/Sdk/release/{0}/latest.version",
             "sdk": "https://dotnetcli.blob.core.windows.net/dotnet/Sdk/release/{0}/dotnet-sdk-latest-osx-x64.pkg",
             "sha": "https://dotnetclichecksums.blob.core.windows.net/dotnet/Sdk/release/{0}/dotnet-sdk-latest-osx-x64.pkg.sha"
         }
