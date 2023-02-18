@@ -1,29 +1,24 @@
 {
     "releases-index": [
         {
+            "version": "8.0",
+            "rids": [ "osx-arm64", "osx-x64" ]
+        },
+        {
+            "version": "7.0.3xx",
+            "rids": [ "osx-arm64", "osx-x64" ]
+        },
+        {
+            "version": "7.0.2xx",
+            "rids": [ "osx-arm64", "osx-x64" ]
+        },
+        {
             "version": "7.0",
             "rids": [ "osx-arm64", "osx-x64" ]
         },
         {
             "version": "6.0",
             "rids": [ "osx-arm64", "osx-x64" ]
-        },
-        {
-            "version": "6.0.2xx",
-            "rids": [ "osx-arm64", "osx-x64" ]
-        },
-        {
-            "version": "6.0.1xx",
-            "rids": [ "osx-arm64", "osx-x64" ]
-        },
-        {
-            "version": "5.0",
-        },
-        {
-            "version": "3.1.4xx",
-            "versionUrl": "https://dotnetcli.blob.core.windows.net/dotnet/Sdk/release/{0}/latest.version",
-            "sdk": "https://dotnetcli.blob.core.windows.net/dotnet/Sdk/release/{0}/dotnet-sdk-latest-osx-x64.pkg",
-            "sha": "https://dotnetclichecksums.blob.core.windows.net/dotnet/Sdk/release/{0}/dotnet-sdk-latest-osx-x64.pkg.sha"
         }
     ]
 }
